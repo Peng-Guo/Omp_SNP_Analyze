@@ -2,11 +2,6 @@
 title: "Omp Data Analysis Report"
 author: "guopeng"
 data: 20240313
-output:
-  html_document:
-    df_print: paged
-  rmdformats::robobook:
-    highlight: tango
 ---
 
 # 数据获取
